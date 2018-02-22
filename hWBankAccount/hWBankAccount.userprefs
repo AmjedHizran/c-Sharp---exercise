@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DE18FFFE-3D38-420D-A716-AA6B109D10EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hWBankAccount/Program.cs">
+    <Files>
+      <File FileName="hWBankAccount/InvestmentTrack.cs" Line="63" Column="46" />
+      <File FileName="hWBankAccount/Program.cs" Line="6" Column="6" />
+      <File FileName="hWBankAccount/BankAccount.cs" Line="104" Column="9" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hWBankAccount PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

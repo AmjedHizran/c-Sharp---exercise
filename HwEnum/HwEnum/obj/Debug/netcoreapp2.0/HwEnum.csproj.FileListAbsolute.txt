@@ -1,0 +1,11 @@
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/obj/Debug/netcoreapp2.0/HwEnum.csprojResolveAssemblyReference.cache
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/obj/Debug/netcoreapp2.0/HwEnum.csproj.CoreCompileInputs.cache
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/obj/Debug/netcoreapp2.0/HwEnum.AssemblyInfoInputs.cache
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/obj/Debug/netcoreapp2.0/HwEnum.AssemblyInfo.cs
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/bin/Debug/netcoreapp2.0/HwEnum.deps.json
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/bin/Debug/netcoreapp2.0/HwEnum.runtimeconfig.json
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/bin/Debug/netcoreapp2.0/HwEnum.runtimeconfig.dev.json
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/bin/Debug/netcoreapp2.0/HwEnum.dll
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/bin/Debug/netcoreapp2.0/HwEnum.pdb
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/obj/Debug/netcoreapp2.0/HwEnum.dll
+/Users/amjedhizran/Desktop/לימודים/c#/HwEnum/HwEnum/obj/Debug/netcoreapp2.0/HwEnum.pdb

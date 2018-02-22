@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D7D86AF0-3E31-4C33-AAE6-948208404505}|Default">
+  <MonoDevelop.Ide.ItemProperties.HwAddOtherDll PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../newDll/Rectangle.cs">
+    <Files>
+      <File FileName="../newDll/Rectangle.cs" Line="7" Column="37" />
+      <File FileName="../newDll/Shape.cs" Line="11" Column="15" />
+      <File FileName="../newDll/Square.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="IDrawable.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

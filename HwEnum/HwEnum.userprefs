@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9CD5D6F3-45CF-4893-903D-C70373723D89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HwEnum/Hotel.cs">
+    <Files>
+      <File FileName="HwEnum/Program.cs" Line="11" Column="14" />
+      <File FileName="HwEnum/Country.cs" Line="13" Column="14" />
+      <File FileName="HwEnum/Service.cs" Line="10" Column="9" />
+      <File FileName="HwEnum/Building.cs" Line="12" Column="47" />
+      <File FileName="HwEnum/Hotel.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HwEnum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

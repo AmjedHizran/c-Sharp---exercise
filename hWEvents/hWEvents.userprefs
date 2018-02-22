@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DA043ABC-214E-4DF0-813B-1F72F926CCC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hWEvents/Program.cs">
+    <Files>
+      <File FileName="hWEvents/Program.cs" Line="1" Column="1" />
+      <File FileName="hWEvents/EmailReceiver.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.hWEvents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

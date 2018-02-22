@@ -1,0 +1,11 @@
+/Users/amjedhizran/Projects/HwEx2/HwEx2/bin/Debug/netcoreapp2.0/HwEx2.deps.json
+/Users/amjedhizran/Projects/HwEx2/HwEx2/bin/Debug/netcoreapp2.0/HwEx2.runtimeconfig.json
+/Users/amjedhizran/Projects/HwEx2/HwEx2/bin/Debug/netcoreapp2.0/HwEx2.runtimeconfig.dev.json
+/Users/amjedhizran/Projects/HwEx2/HwEx2/bin/Debug/netcoreapp2.0/HwEx2.dll
+/Users/amjedhizran/Projects/HwEx2/HwEx2/bin/Debug/netcoreapp2.0/HwEx2.pdb
+/Users/amjedhizran/Projects/HwEx2/HwEx2/obj/Debug/netcoreapp2.0/HwEx2.csprojResolveAssemblyReference.cache
+/Users/amjedhizran/Projects/HwEx2/HwEx2/obj/Debug/netcoreapp2.0/HwEx2.csproj.CoreCompileInputs.cache
+/Users/amjedhizran/Projects/HwEx2/HwEx2/obj/Debug/netcoreapp2.0/HwEx2.AssemblyInfoInputs.cache
+/Users/amjedhizran/Projects/HwEx2/HwEx2/obj/Debug/netcoreapp2.0/HwEx2.AssemblyInfo.cs
+/Users/amjedhizran/Projects/HwEx2/HwEx2/obj/Debug/netcoreapp2.0/HwEx2.dll
+/Users/amjedhizran/Projects/HwEx2/HwEx2/obj/Debug/netcoreapp2.0/HwEx2.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C75C444E-0160-4D14-8420-9284426886DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="miniTest/SunHat.cs">
+    <Files>
+      <File FileName="miniTest/Program.cs" Line="25" Column="17" />
+      <File FileName="miniTest/ClothingItem.cs" Line="16" Column="2" />
+      <File FileName="miniTest/SunHat.cs" Line="17" Column="26" />
+      <File FileName="miniTest/Gloves.cs" Line="16" Column="26" />
+      <File FileName="miniTest/Weather.cs" Line="8" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.miniTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

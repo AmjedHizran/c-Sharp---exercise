@@ -1,0 +1,11 @@
+/Users/amjedhizran/Projects/miniTest/miniTest/obj/Debug/netcoreapp2.0/miniTest.csprojResolveAssemblyReference.cache
+/Users/amjedhizran/Projects/miniTest/miniTest/obj/Debug/netcoreapp2.0/miniTest.csproj.CoreCompileInputs.cache
+/Users/amjedhizran/Projects/miniTest/miniTest/obj/Debug/netcoreapp2.0/miniTest.AssemblyInfoInputs.cache
+/Users/amjedhizran/Projects/miniTest/miniTest/obj/Debug/netcoreapp2.0/miniTest.AssemblyInfo.cs
+/Users/amjedhizran/Projects/miniTest/miniTest/bin/Debug/netcoreapp2.0/miniTest.deps.json
+/Users/amjedhizran/Projects/miniTest/miniTest/bin/Debug/netcoreapp2.0/miniTest.runtimeconfig.json
+/Users/amjedhizran/Projects/miniTest/miniTest/bin/Debug/netcoreapp2.0/miniTest.runtimeconfig.dev.json
+/Users/amjedhizran/Projects/miniTest/miniTest/bin/Debug/netcoreapp2.0/miniTest.dll
+/Users/amjedhizran/Projects/miniTest/miniTest/bin/Debug/netcoreapp2.0/miniTest.pdb
+/Users/amjedhizran/Projects/miniTest/miniTest/obj/Debug/netcoreapp2.0/miniTest.dll
+/Users/amjedhizran/Projects/miniTest/miniTest/obj/Debug/netcoreapp2.0/miniTest.pdb

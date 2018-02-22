@@ -1,0 +1,11 @@
+/Users/amjedhizran/Projects/test/test/bin/Debug/netcoreapp2.0/Delegate.deps.json
+/Users/amjedhizran/Projects/test/test/bin/Debug/netcoreapp2.0/Delegate.runtimeconfig.json
+/Users/amjedhizran/Projects/test/test/bin/Debug/netcoreapp2.0/Delegate.runtimeconfig.dev.json
+/Users/amjedhizran/Projects/test/test/bin/Debug/netcoreapp2.0/Delegate.dll
+/Users/amjedhizran/Projects/test/test/bin/Debug/netcoreapp2.0/Delegate.pdb
+/Users/amjedhizran/Projects/test/test/obj/Debug/netcoreapp2.0/Delegate.csprojResolveAssemblyReference.cache
+/Users/amjedhizran/Projects/test/test/obj/Debug/netcoreapp2.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/amjedhizran/Projects/test/test/obj/Debug/netcoreapp2.0/Delegate.AssemblyInfoInputs.cache
+/Users/amjedhizran/Projects/test/test/obj/Debug/netcoreapp2.0/Delegate.AssemblyInfo.cs
+/Users/amjedhizran/Projects/test/test/obj/Debug/netcoreapp2.0/Delegate.dll
+/Users/amjedhizran/Projects/test/test/obj/Debug/netcoreapp2.0/Delegate.pdb

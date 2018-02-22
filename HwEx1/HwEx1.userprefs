@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4384618C-68AF-4DD2-BD03-823F5FFDA8E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HwEx1/Program.cs">
+    <Files>
+      <File FileName="HwEx1/Program.cs" Line="11" Column="38" />
+      <File FileName="HwEx1/Circle.cs" Line="22" Column="23" />
+      <File FileName="HwEx1/Square.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HwEx1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
